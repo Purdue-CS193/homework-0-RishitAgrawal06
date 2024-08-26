@@ -1,8 +1,14 @@
-## Welcome to Rishit's GitHub Pages
+# Rishit's First CS193 Homework
+
+- I find it unique to see Purdue CS Sophomore's teaching the CS 193 Class. It offers a different, more personable experience than a typical professor teaching a CS class.
+- CS 193, despite being only a "seminar" class, offers to teach many of the skills commonly needed in industry roles, which will grealty benefit us students in the future.
+- I'm excited for this class!
+
+<!-- ## Welcome to Rishit's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 
